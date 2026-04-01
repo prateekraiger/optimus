@@ -113,7 +113,7 @@ export function FooterSection() {
               className="flex items-center gap-2 hover:text-foreground transition-colors group"
             >
               <span className="w-2 h-2 rounded-full bg-green-500 animate-pulse" />
-              Built by Pratik
+              biuld by praitk
               <ArrowUpRight className="w-3 h-3 opacity-0 -translate-y-1 translate-x-1 group-hover:opacity-100 group-hover:translate-y-0 group-hover:translate-x-0 transition-all" />
             </a>
           </div>
