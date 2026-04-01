@@ -21,10 +21,10 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Optimus — Next-Gen Creative Operations',
-  description: 'The creative operating system for modern teams. Build, deploy, and scale with unprecedented speed and precision.',
-  keywords: ['creative platform', 'deployment', 'SaaS infrastructure', 'edge network', 'global infrastructure'],
-  authors: [{ name: 'Optimus Team' }],
+  title: 'Pratik — Personal Portfolio & Projects',
+  description: 'The personal website and portfolio of Pratik, showcasing high-performance web applications and creative engineering.',
+  keywords: ['Pratik', 'portfolio', 'web development', 'creative engineering', 'Next.js', 'React'],
+  authors: [{ name: 'Pratik', url: 'https://pratikdev.site' }],
   viewport: 'width=device-width, initial-scale=1',
   robots: 'index, follow',
 }
